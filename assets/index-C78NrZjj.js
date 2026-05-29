@@ -16923,8 +16923,8 @@ function y2() {
               m.jsx(E.p, {
                 variants: d,
                 className:
-                  "text-black text-[13px] md:text-xl font-['Playfair_Display'] mb-1 ",
-                children: "Smt. Vijay Laxmi & Shri Vijay Singh Solanki",
+                  "text-black text-[13px] md:text-xl font-['Playfair_Display'] font-semibold mb-1 ",
+                children: "Smt. Vijay Laxmi & Th. Vijay Singh Solanki",
               }),
               m.jsx(E.p, {
                 variants: d,
